@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+	/* All div's  */
+div {
+	width: 200px;
+	height: 200px;
+}
+
+	/* 1st red box */
+
+.top-container {
+	background-color: red;
+	border: 10px solid black;
+	padding: 20px;
+}
+	/* 2nd green box */
+
+.mid-container {
+	background-color: green;
+	border: 20px solid black;
+	margin-left: 260px;
+}
+	/* 3rd blue box */
+
+.bottom-container {
+	background-color: blue;
+	border: 10px solid black;
+	margin-left: 500px;
+}
